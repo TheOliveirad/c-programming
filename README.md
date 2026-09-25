@@ -30,4 +30,4 @@ ASCII-art rectangle drawer using width and height input from the CLI. Handles co
 
 ## 📜 License
 
-MIT License – see [LICENSE](./LICENSE) for details.
+MIT License. See [LICENSE](./LICENSE) for details.
